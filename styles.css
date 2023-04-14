@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+    box-sizing: border-box;
+    letter-spacing: 3;
+
+}
+main{
+    text-align: center;
+    font-size: larger;
+    margin: 4rem;
+    border: solid ;
+    background-color: antiquewhite;
+}
+.form{
+    padding-right: 1rem ;
+    letter-spacing: 1;
+    line-height: 3rem;
+    text-align: left;
+    padding-left: 8rem;
+}
+h1{
+    text-align: left;
+    padding-left: 2rem;
+}
+.btn{
+    background-color: blue;
+    color: whitesmoke;
+    text-align: right;
+}
